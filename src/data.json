@@ -1,6 +1,7 @@
 [
-  { "language": "French", "greeting": "Bonjour"},
-  { "language": "Spanish", "greeting": "Hola"},
-  { "language": "Korean", "greeting": "안넝하새요"},
-  { "language": "English", "greeting": "Hi"}
+  { "language": "French", "greeting": "Bonjour, je suis"},
+  { "language": "Spanish", "greeting": "Hola, soy"},
+  { "language": "Korean", "greeting": "안넝하새요, 제 이름"},
+  { "language": "English", "greeting": "Hi, I'm"},
+  { "language": "German", "greeting": "Hallo, ich bin"}
 ]
